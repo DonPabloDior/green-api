@@ -54,3 +54,5 @@ src/
     Login/       # Страница входа
     Chat/        # ChatLayout, ChatList, MessageArea, MessageBubble, MessageInput, NewChatModal
 ```
+
+# [Demo](https://green-api-alpha-ochre.vercel.app/chat)
