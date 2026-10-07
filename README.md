@@ -56,3 +56,17 @@ src/
 ```
 
 # [Demo](https://green-api-alpha-ochre.vercel.app)
+
+# Скриншоты
+
+## Введите **ID инстанса** и **API Token** из [личного кабинета GREEN-API](https://console.green-api.com/)
+![img](https://i.ibb.co/8DNgRZTL/localhost-5173-login.png)
+
+## Введите номер телефона получателя (11 цифр, например `79991234567`)
+![https://i.ibb.co/cScK4rMR/localhost-5173-chat2.png](https://i.ibb.co/cScK4rMR/localhost-5173-chat2.png)
+
+## Нажмите **«+»**
+![img](https://i.ibb.co/rKzJksSt/localhost-5173-chat.png)
+
+## Напишите сообщение и нажмите **Enter** или кнопку отправки. Ответы от собеседника появятся автоматически
+![img](https://i.ibb.co/k2PgPg1b/localhost-5173-chat1.png)
